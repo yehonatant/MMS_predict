@@ -1,4 +1,0 @@
-n = 4, max_val=100, m=10, generation_method='uniform':
- or_tools = 0.39 secs
- xpress = 0.02 secs
- pulp = 0.58

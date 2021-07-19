@@ -7,6 +7,7 @@ from ortools.linear_solver import pywraplp
 import json
 import os.path
 import multiprocessing as mp
+import timeout_decorator
 
 
 def list_missing_data(min_n, max_n, min_m, max_m, min_max_v, max_max_v):
@@ -36,6 +37,7 @@ def timeout(func, args = (), kwds = {}, timeout = 20, default = None):
         pool.join()
         return val
 
+# @timeout_decorator.timeout(30)
 def ortools_solver(values, k, timeout=None):
     start = time.time()
     solver = pywraplp.Solver.CreateSolver('SCIP')
@@ -72,7 +74,7 @@ def ortools_solver(values, k, timeout=None):
     print('Problem solved in %d iterations' % solver.iterations())
     print('Problem solved in %d branch-and-bound nodes' % solver.nodes())
 
-
+# @timeout_decorator.timeout(30,use_signals=False)
 def xpress_solver(values, k, timeout=None):
     start = time.time()
     xp.controls.outputlog = 0
@@ -182,17 +184,20 @@ def generate_examples(n, max_val, m, generation_method, examples_count, solver=o
         while examples_done < examples_count:
             values = [random.randrange(0, max_val + 1) for _ in range(m)]
             values.sort(reverse=sort_reverse)
-            mms_val, time_it_took = solver(values, n)
-                #timeout(solver, args=(values, n,), timeout=30, default=(None, 0))
+            time_it_took = 0
+            try:
+                mms_val, time_it_took = solver(values, n)
+            except TimeoutError as e:
+                mms_val = None
             if mms_val is not None:
                 entries.append(create_entry(values, mms_val))
                 total_time += time_it_took
-                time.sleep(0.5)
+                # time.sleep(0.5)
                 examples_done += 1
             else:
                 print("timeout", n, m, max_val)
             if examples_done % 10 == 0:
-                print("done ", examples_done, "examples", n, m, max_val)
+                print("done", examples_done, "examples", n, m, max_val)
         with open("./best solver.txt", "a") as best_solver:
             best_solver.write("\n"+
                               "n="+str(n)+", max_val="+str(max_val)+
@@ -203,37 +208,57 @@ def generate_examples(n, max_val, m, generation_method, examples_count, solver=o
 
 
 
-# k = 6
-# m = 30
-# mv = 500
+# k = 8
+# m = 80
+# mv = 300
 # values = [random.randrange(0, mv+1) for _ in range(m)]
+#
+#
+#
 # values.sort()
 # start = time.time()
-#
-# v = generate_examples(k,mv,m,'uniform',1,ortools_solver,True,10)
-# # v = ortools_solver(values, k)
+# v = ortools_solver(values, k)
 # end = time.time()
-# print(v, end-start)
+#
+# print("ortools:", v, end-start)
+#
 # values.sort(reverse=True)
 # start = time.time()
 # v = ortools_solver(values, k)
 # end = time.time()
-# print(v, end-start)
+# print("ortools reverse:", v, end-start)
+#
+#
+# values.sort()
+# start = time.time()
+# v = xpress_solver(values, k)
+# end = time.time()
+#
+# print("xpress:", v, end-start)
+#
+# values.sort(reverse=True)
+# start = time.time()
+# v = xpress_solver(values, k)
+# end = time.time()
+# print("xpress reverse:", v, end-start)
 
 
-# ns = [6, 7,8]
-ns = [7]
-# ms = [70,80,90,100]
-ms = [50]
-max_vals = [100, 150, 200, 250, 300]
-# max_vals = [500]
+
+
+
+ns = [8]
+
+ms = [80]
+max_vals = [300]
+
 generation_methods=['uniform']
 for n in ns:
-    for m in ms:
-        for max_val in max_vals:
+    for max_val in max_vals:
+        for m in ms:
             for generation_method in generation_methods:
+                b=random.randint(0,1)
                 entries = generate_examples(n=n, max_val=max_val, m=m, generation_method=generation_method,
                                             examples_count=100,
-                                            solver=xpress_solver, sort_reverse=True)
+                                            solver=xpress_solver, sort_reverse=bool(b))
                 write_examples(n=n, max_val=max_val, m=m, generation_method=generation_method, entries=entries)
                 print("done "+ str(n) + ", "+str(m)+", "+str(max_val))

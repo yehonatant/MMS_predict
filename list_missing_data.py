@@ -13,6 +13,6 @@ def list_missing_data(min_n, max_n, min_m, max_m, min_max_v, max_max_v):
                 if (n,m,max_v) not in lst_dirs_files:
                     missing_data.append((n,m,max_v))
     return missing_data
-missing = list_missing_data(min_n=3, max_n=8, min_m=30, max_m=100, min_max_v=100, max_max_v=300)
+missing = list_missing_data(min_n=3, max_n=8, min_m=30, max_m=100, min_max_v=100, max_max_v=350)
 for t in missing:
     print(t)

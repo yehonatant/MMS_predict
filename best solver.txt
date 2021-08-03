@@ -731,3 +731,17 @@ n=8, max_val=300, m=70, generation_method='uniform':
 	xpress_solver = 6.305707907676696
 n=8, max_val=300, m=80, generation_method='uniform':
 	xpress_solver = 5.5495032119750975
+n=7, max_val=350, m=100, generation_method='uniform':
+	xpress_solver = 3.660307214260101
+n=7, max_val=350, m=90, generation_method='uniform':
+	xpress_solver = 16.055244028568268
+n=7, max_val=350, m=60, generation_method='uniform':
+	xpress_solver = 5.617950387001038
+n=7, max_val=350, m=50, generation_method='uniform':
+	xpress_solver = 6.851093609333038
+n=8, max_val=350, m=100, generation_method='uniform':
+	xpress_solver = 20.20593190431595
+n=8, max_val=350, m=70, generation_method='uniform':
+	xpress_solver = 10.229100663661956
+n=8, max_val=350, m=40, generation_method='uniform':
+	xpress_solver = 16.566137063503266

@@ -1,0 +1,2690 @@
+{
+    "(3, 100, 100)": {
+        "values_idx": 11,
+        "solver_result": 1631.0,
+        "solver_time": 0.017952442169189453,
+        "net_result": 1630.9053552150726,
+        "net_time": 0.0009982585906982422
+    },
+    "(3, 100, 150)": {
+        "values_idx": 8,
+        "solver_result": 2495.0,
+        "solver_time": 0.024933338165283203,
+        "net_result": 2493.5860539078712,
+        "net_time": 0.000997304916381836
+    },
+    "(3, 100, 200)": {
+        "values_idx": 24,
+        "solver_result": 3269.0,
+        "solver_time": 0.013962507247924805,
+        "net_result": 3266.9082078933716,
+        "net_time": 0.0010001659393310547
+    },
+    "(3, 100, 250)": {
+        "values_idx": 18,
+        "solver_result": 4052.0,
+        "solver_time": 0.017951488494873047,
+        "net_result": 4050.777346253395,
+        "net_time": 0.0009987354278564453
+    },
+    "(3, 100, 300)": {
+        "values_idx": 83,
+        "solver_result": 4727.0,
+        "solver_time": 0.01994633674621582,
+        "net_result": 4724.869809269905,
+        "net_time": 0.0
+    },
+    "(3, 100, 350)": {
+        "values_idx": 58,
+        "solver_result": 5651.0,
+        "solver_time": 0.09773945808410645,
+        "net_result": 5648.862233161926,
+        "net_time": 0.0
+    },
+    "(3, 100, 400)": {
+        "values_idx": 63,
+        "solver_result": 6629.0,
+        "solver_time": 0.027924299240112305,
+        "net_result": 6626.177413344383,
+        "net_time": 0.0009982585906982422
+    },
+    "(3, 100, 450)": {
+        "values_idx": 62,
+        "solver_result": 7592.0,
+        "solver_time": 0.013962984085083008,
+        "net_result": 7588.211683750153,
+        "net_time": 0.0009982585906982422
+    },
+    "(3, 100, 500)": {
+        "values_idx": 10,
+        "solver_result": 9289.0,
+        "solver_time": 0.27800822257995605,
+        "net_result": 9283.239172816277,
+        "net_time": 0.0
+    },
+    "(3, 30, 100)": {
+        "values_idx": 62,
+        "solver_result": 473.0,
+        "solver_time": 0.04587721824645996,
+        "net_result": 472.84701070189476,
+        "net_time": 0.000997781753540039
+    },
+    "(3, 30, 150)": {
+        "values_idx": 61,
+        "solver_result": 712.0,
+        "solver_time": 0.005983114242553711,
+        "net_result": 712.2361036539078,
+        "net_time": 0.0
+    },
+    "(3, 30, 200)": {
+        "values_idx": 51,
+        "solver_result": 952.0,
+        "solver_time": 0.012965202331542969,
+        "net_result": 952.1488952636719,
+        "net_time": 0.0009970664978027344
+    },
+    "(3, 30, 250)": {
+        "values_idx": 55,
+        "solver_result": 1436.0,
+        "solver_time": 0.046874284744262695,
+        "net_result": 1435.6350345611572,
+        "net_time": 0.0
+    },
+    "(3, 30, 300)": {
+        "values_idx": 32,
+        "solver_result": 1467.0,
+        "solver_time": 0.035904884338378906,
+        "net_result": 1466.678101748228,
+        "net_time": 0.0
+    },
+    "(3, 30, 350)": {
+        "values_idx": 76,
+        "solver_result": 1485.0,
+        "solver_time": 0.13463926315307617,
+        "net_result": 1483.9547511935234,
+        "net_time": 0.000997304916381836
+    },
+    "(3, 30, 400)": {
+        "values_idx": 46,
+        "solver_result": 2417.0,
+        "solver_time": 0.055850982666015625,
+        "net_result": 2415.8060398101807,
+        "net_time": 0.0009961128234863281
+    },
+    "(3, 30, 450)": {
+        "values_idx": 73,
+        "solver_result": 2208.0,
+        "solver_time": 0.15059733390808105,
+        "net_result": 2205.413411140442,
+        "net_time": 0.0009970664978027344
+    },
+    "(3, 30, 500)": {
+        "values_idx": 4,
+        "solver_result": 2124.0,
+        "solver_time": 0.11269760131835938,
+        "net_result": 2123.8704176545143,
+        "net_time": 0.0
+    },
+    "(3, 40, 100)": {
+        "values_idx": 79,
+        "solver_result": 690.0,
+        "solver_time": 0.010970354080200195,
+        "net_result": 689.6425223350525,
+        "net_time": 0.0
+    },
+    "(3, 40, 150)": {
+        "values_idx": 69,
+        "solver_result": 914.0,
+        "solver_time": 0.008975505828857422,
+        "net_result": 914.0852553844452,
+        "net_time": 0.0
+    },
+    "(3, 40, 200)": {
+        "values_idx": 49,
+        "solver_result": 1242.0,
+        "solver_time": 0.008975744247436523,
+        "net_result": 1242.0422473549843,
+        "net_time": 0.0009982585906982422
+    },
+    "(3, 40, 250)": {
+        "values_idx": 63,
+        "solver_result": 1430.0,
+        "solver_time": 0.02393507957458496,
+        "net_result": 1430.9423587322235,
+        "net_time": 0.000997781753540039
+    },
+    "(3, 40, 300)": {
+        "values_idx": 57,
+        "solver_result": 1930.0,
+        "solver_time": 0.16356158256530762,
+        "net_result": 1928.7690781652927,
+        "net_time": 0.001996755599975586
+    },
+    "(3, 40, 350)": {
+        "values_idx": 21,
+        "solver_result": 2385.0,
+        "solver_time": 0.04288434982299805,
+        "net_result": 2383.6257882118225,
+        "net_time": 0.0009975433349609375
+    },
+    "(3, 40, 400)": {
+        "values_idx": 83,
+        "solver_result": 2655.0,
+        "solver_time": 0.1436164379119873,
+        "net_result": 2654.5103282928467,
+        "net_time": 0.0009975433349609375
+    },
+    "(3, 40, 450)": {
+        "values_idx": 71,
+        "solver_result": 2792.0,
+        "solver_time": 0.14560961723327637,
+        "net_result": 2790.6254024505615,
+        "net_time": 0.0
+    },
+    "(3, 40, 500)": {
+        "values_idx": 4,
+        "solver_result": 3410.0,
+        "solver_time": 0.17054367065429688,
+        "net_result": 3409.304676860571,
+        "net_time": 0.0
+    },
+    "(3, 50, 100)": {
+        "values_idx": 11,
+        "solver_result": 724.0,
+        "solver_time": 0.020943880081176758,
+        "net_result": 723.5577818155289,
+        "net_time": 0.0009982585906982422
+    },
+    "(3, 50, 150)": {
+        "values_idx": 38,
+        "solver_result": 1224.0,
+        "solver_time": 0.026927947998046875,
+        "net_result": 1223.527605831623,
+        "net_time": 0.0009982585906982422
+    },
+    "(3, 50, 200)": {
+        "values_idx": 22,
+        "solver_result": 1688.0,
+        "solver_time": 0.07579946517944336,
+        "net_result": 1686.4113264083862,
+        "net_time": 0.0
+    },
+    "(3, 50, 250)": {
+        "values_idx": 5,
+        "solver_result": 1906.0,
+        "solver_time": 0.05585050582885742,
+        "net_result": 1905.2400208711624,
+        "net_time": 0.0
+    },
+    "(3, 50, 300)": {
+        "values_idx": 72,
+        "solver_result": 2483.0,
+        "solver_time": 0.13663411140441895,
+        "net_result": 2481.171527504921,
+        "net_time": 0.0
+    },
+    "(3, 50, 350)": {
+        "values_idx": 66,
+        "solver_result": 3068.0,
+        "solver_time": 0.021938562393188477,
+        "net_result": 3065.8929767012596,
+        "net_time": 0.0
+    },
+    "(3, 50, 400)": {
+        "values_idx": 71,
+        "solver_result": 3575.0,
+        "solver_time": 0.11170268058776855,
+        "net_result": 3571.6999277472496,
+        "net_time": 0.0
+    },
+    "(3, 50, 450)": {
+        "values_idx": 60,
+        "solver_result": 3703.0,
+        "solver_time": 0.25232672691345215,
+        "net_result": 3700.4796600341797,
+        "net_time": 0.0009946823120117188
+    },
+    "(3, 50, 500)": {
+        "values_idx": 73,
+        "solver_result": 3990.0,
+        "solver_time": 0.2842395305633545,
+        "net_result": 3988.375196456909,
+        "net_time": 0.0009980201721191406
+    },
+    "(3, 60, 100)": {
+        "values_idx": 49,
+        "solver_result": 1083.0,
+        "solver_time": 0.009974479675292969,
+        "net_result": 1082.9870998859406,
+        "net_time": 0.0009989738464355469
+    },
+    "(3, 60, 150)": {
+        "values_idx": 36,
+        "solver_result": 1356.9999999999998,
+        "solver_time": 0.015956878662109375,
+        "net_result": 1356.900189757347,
+        "net_time": 0.0009984970092773438
+    },
+    "(3, 60, 200)": {
+        "values_idx": 60,
+        "solver_result": 2166.0,
+        "solver_time": 0.011968851089477539,
+        "net_result": 2165.444854259491,
+        "net_time": 0.0009968280792236328
+    },
+    "(3, 60, 250)": {
+        "values_idx": 87,
+        "solver_result": 2460.0,
+        "solver_time": 0.0877685546875,
+        "net_result": 2459.3092381954193,
+        "net_time": 0.0009968280792236328
+    },
+    "(3, 60, 300)": {
+        "values_idx": 25,
+        "solver_result": 3396.0,
+        "solver_time": 0.025934219360351562,
+        "net_result": 3396.223690509796,
+        "net_time": 0.000995635986328125
+    },
+    "(3, 60, 350)": {
+        "values_idx": 90,
+        "solver_result": 3105.0,
+        "solver_time": 0.04787254333496094,
+        "net_result": 3105.5487502217293,
+        "net_time": 0.0
+    },
+    "(3, 60, 400)": {
+        "values_idx": 81,
+        "solver_result": 3922.0,
+        "solver_time": 0.03191351890563965,
+        "net_result": 3922.243472099304,
+        "net_time": 0.0
+    },
+    "(3, 60, 450)": {
+        "values_idx": 99,
+        "solver_result": 4981.0,
+        "solver_time": 0.269305944442749,
+        "net_result": 4979.753652691841,
+        "net_time": 0.0
+    },
+    "(3, 60, 500)": {
+        "values_idx": 55,
+        "solver_result": 4962.0,
+        "solver_time": 0.27426671981811523,
+        "net_result": 4959.975386917591,
+        "net_time": 0.0
+    },
+    "(3, 70, 100)": {
+        "values_idx": 82,
+        "solver_result": 1181.0,
+        "solver_time": 0.03989386558532715,
+        "net_result": 1181.276961863041,
+        "net_time": 0.0009975433349609375
+    },
+    "(3, 70, 150)": {
+        "values_idx": 25,
+        "solver_result": 1748.0,
+        "solver_time": 0.011966943740844727,
+        "net_result": 1747.494475364685,
+        "net_time": 0.000997304916381836
+    },
+    "(3, 70, 200)": {
+        "values_idx": 8,
+        "solver_result": 2096.0,
+        "solver_time": 0.013963937759399414,
+        "net_result": 2095.6284070014954,
+        "net_time": 0.000997781753540039
+    },
+    "(3, 70, 250)": {
+        "values_idx": 96,
+        "solver_result": 3162.0,
+        "solver_time": 0.08078432083129883,
+        "net_result": 3160.8070192337036,
+        "net_time": 0.0
+    },
+    "(3, 70, 300)": {
+        "values_idx": 52,
+        "solver_result": 3693.0,
+        "solver_time": 0.01097249984741211,
+        "net_result": 3693.3773612976074,
+        "net_time": 0.0
+    },
+    "(3, 70, 350)": {
+        "values_idx": 21,
+        "solver_result": 3742.0,
+        "solver_time": 0.01296234130859375,
+        "net_result": 3740.1971629858017,
+        "net_time": 0.0
+    },
+    "(3, 70, 400)": {
+        "values_idx": 80,
+        "solver_result": 4437.0,
+        "solver_time": 0.011968135833740234,
+        "net_result": 4433.940246582031,
+        "net_time": 0.0
+    },
+    "(3, 70, 450)": {
+        "values_idx": 2,
+        "solver_result": 4376.0,
+        "solver_time": 0.012965679168701172,
+        "net_result": 4375.493396997452,
+        "net_time": 0.0009980201721191406
+    },
+    "(3, 70, 500)": {
+        "values_idx": 72,
+        "solver_result": 5082.0,
+        "solver_time": 0.061833858489990234,
+        "net_result": 5083.49023771286,
+        "net_time": 0.0
+    },
+    "(3, 80, 100)": {
+        "values_idx": 95,
+        "solver_result": 1344.0,
+        "solver_time": 0.018932580947875977,
+        "net_result": 1344.2003633975983,
+        "net_time": 0.0
+    },
+    "(3, 80, 150)": {
+        "values_idx": 96,
+        "solver_result": 2016.0,
+        "solver_time": 0.021915674209594727,
+        "net_result": 2015.6719893217087,
+        "net_time": 0.0
+    },
+    "(3, 80, 200)": {
+        "values_idx": 90,
+        "solver_result": 2332.0,
+        "solver_time": 0.01296544075012207,
+        "net_result": 2331.640412092209,
+        "net_time": 0.0009975433349609375
+    },
+    "(3, 80, 250)": {
+        "values_idx": 62,
+        "solver_result": 3167.0,
+        "solver_time": 0.018950462341308594,
+        "net_result": 3165.908260792494,
+        "net_time": 0.00099945068359375
+    },
+    "(3, 80, 300)": {
+        "values_idx": 86,
+        "solver_result": 4204.0,
+        "solver_time": 0.012965202331542969,
+        "net_result": 4203.441647529602,
+        "net_time": 0.0
+    },
+    "(3, 80, 350)": {
+        "values_idx": 91,
+        "solver_result": 4618.0,
+        "solver_time": 0.02094435691833496,
+        "net_result": 4616.38288128376,
+        "net_time": 0.0
+    },
+    "(3, 80, 400)": {
+        "values_idx": 44,
+        "solver_result": 5261.0,
+        "solver_time": 0.0688164234161377,
+        "net_result": 5259.705698400736,
+        "net_time": 0.0009980201721191406
+    },
+    "(3, 80, 450)": {
+        "values_idx": 45,
+        "solver_result": 6214.999999999999,
+        "solver_time": 0.012964963912963867,
+        "net_result": 6211.246672868729,
+        "net_time": 0.0009980201721191406
+    },
+    "(3, 80, 500)": {
+        "values_idx": 39,
+        "solver_result": 6757.0,
+        "solver_time": 0.03590583801269531,
+        "net_result": 6755.103321790695,
+        "net_time": 0.0
+    },
+    "(3, 90, 100)": {
+        "values_idx": 49,
+        "solver_result": 1517.0,
+        "solver_time": 0.04288291931152344,
+        "net_result": 1516.608003616333,
+        "net_time": 0.0009987354278564453
+    },
+    "(3, 90, 150)": {
+        "values_idx": 8,
+        "solver_result": 2426.0,
+        "solver_time": 0.019948959350585938,
+        "net_result": 2425.7322883605957,
+        "net_time": 0.000997781753540039
+    },
+    "(3, 90, 200)": {
+        "values_idx": 51,
+        "solver_result": 3043.0,
+        "solver_time": 0.019945144653320312,
+        "net_result": 3043.219111740589,
+        "net_time": 0.000997304916381836
+    },
+    "(3, 90, 250)": {
+        "values_idx": 23,
+        "solver_result": 3833.0,
+        "solver_time": 0.015982866287231445,
+        "net_result": 3830.8010399341583,
+        "net_time": 0.0010008811950683594
+    },
+    "(3, 90, 300)": {
+        "values_idx": 74,
+        "solver_result": 4040.0,
+        "solver_time": 0.028899192810058594,
+        "net_result": 4038.463078200817,
+        "net_time": 0.0009984970092773438
+    },
+    "(3, 90, 350)": {
+        "values_idx": 23,
+        "solver_result": 5713.0,
+        "solver_time": 0.01994466781616211,
+        "net_result": 5710.997689545155,
+        "net_time": 0.0
+    },
+    "(3, 90, 400)": {
+        "values_idx": 67,
+        "solver_result": 5437.0,
+        "solver_time": 0.014963626861572266,
+        "net_result": 5435.528960466385,
+        "net_time": 0.0010230541229248047
+    },
+    "(3, 90, 450)": {
+        "values_idx": 67,
+        "solver_result": 6398.0,
+        "solver_time": 0.09571576118469238,
+        "net_result": 6394.448482632637,
+        "net_time": 0.0
+    },
+    "(3, 90, 500)": {
+        "values_idx": 46,
+        "solver_result": 7634.0,
+        "solver_time": 0.02294158935546875,
+        "net_result": 7631.937613427639,
+        "net_time": 0.000997304916381836
+    },
+    "(4, 100, 100)": {
+        "values_idx": 93,
+        "solver_result": 1236.0,
+        "solver_time": 0.05482959747314453,
+        "net_result": 1235.3638435006142,
+        "net_time": 0.0
+    },
+    "(4, 100, 150)": {
+        "values_idx": 76,
+        "solver_result": 1816.0,
+        "solver_time": 0.0767972469329834,
+        "net_result": 1814.7258576750755,
+        "net_time": 0.0
+    },
+    "(4, 100, 200)": {
+        "values_idx": 16,
+        "solver_result": 2531.0,
+        "solver_time": 0.02094411849975586,
+        "net_result": 2529.366485774517,
+        "net_time": 0.0
+    },
+    "(4, 100, 250)": {
+        "values_idx": 25,
+        "solver_result": 3120.0,
+        "solver_time": 0.017954111099243164,
+        "net_result": 3117.802484869957,
+        "net_time": 0.0
+    },
+    "(4, 100, 300)": {
+        "values_idx": 33,
+        "solver_result": 3855.0,
+        "solver_time": 0.06881427764892578,
+        "net_result": 3852.3417675495148,
+        "net_time": 0.0
+    },
+    "(4, 100, 350)": {
+        "values_idx": 72,
+        "solver_result": 4536.0,
+        "solver_time": 0.2922189235687256,
+        "net_result": 4533.878235816956,
+        "net_time": 0.0
+    },
+    "(4, 100, 400)": {
+        "values_idx": 12,
+        "solver_result": 4994.0,
+        "solver_time": 0.10771346092224121,
+        "net_result": 4988.489747822285,
+        "net_time": 0.0
+    },
+    "(4, 100, 450)": {
+        "values_idx": 72,
+        "solver_result": 6087.0,
+        "solver_time": 0.16755032539367676,
+        "net_result": 6079.563775062561,
+        "net_time": 0.000997781753540039
+    },
+    "(4, 100, 500)": {
+        "values_idx": 0,
+        "solver_result": 6701.0,
+        "solver_time": 0.07380437850952148,
+        "net_result": 6692.594074010849,
+        "net_time": 0.0009992122650146484
+    },
+    "(4, 30, 100)": {
+        "values_idx": 81,
+        "solver_result": 435.0,
+        "solver_time": 0.19746994972229004,
+        "net_result": 434.5689464211464,
+        "net_time": 0.001001119613647461
+    },
+    "(4, 30, 150)": {
+        "values_idx": 41,
+        "solver_result": 511.0,
+        "solver_time": 0.19248175621032715,
+        "net_result": 510.09552001953125,
+        "net_time": 0.0
+    },
+    "(4, 30, 200)": {
+        "values_idx": 52,
+        "solver_result": 621.0,
+        "solver_time": 0.20345282554626465,
+        "net_result": 620.7609158754349,
+        "net_time": 0.0009980201721191406
+    },
+    "(4, 30, 250)": {
+        "values_idx": 90,
+        "solver_result": 1042.0,
+        "solver_time": 0.12566304206848145,
+        "net_result": 1041.3049487173557,
+        "net_time": 0.0009984970092773438
+    },
+    "(4, 30, 300)": {
+        "values_idx": 82,
+        "solver_result": 1205.0000000000002,
+        "solver_time": 0.15558195114135742,
+        "net_result": 1201.8797482848167,
+        "net_time": 0.0009980201721191406
+    },
+    "(4, 30, 350)": {
+        "values_idx": 41,
+        "solver_result": 1176.0,
+        "solver_time": 0.18151354789733887,
+        "net_result": 1175.5650953054428,
+        "net_time": 0.0009975433349609375
+    },
+    "(4, 30, 400)": {
+        "values_idx": 49,
+        "solver_result": 1372.0,
+        "solver_time": 0.3700101375579834,
+        "net_result": 1373.1563348770142,
+        "net_time": 0.0009989738464355469
+    },
+    "(4, 30, 450)": {
+        "values_idx": 95,
+        "solver_result": 1740.0,
+        "solver_time": 0.2573111057281494,
+        "net_result": 1739.2409613132477,
+        "net_time": 0.0010118484497070312
+    },
+    "(4, 30, 500)": {
+        "values_idx": 22,
+        "solver_result": 1898.0000000000002,
+        "solver_time": 0.6941416263580322,
+        "net_result": 1893.1096329689026,
+        "net_time": 0.0
+    },
+    "(4, 40, 100)": {
+        "values_idx": 78,
+        "solver_result": 582.0,
+        "solver_time": 0.0578465461730957,
+        "net_result": 581.5211296975613,
+        "net_time": 0.0
+    },
+    "(4, 40, 150)": {
+        "values_idx": 51,
+        "solver_result": 813.0,
+        "solver_time": 0.15757989883422852,
+        "net_result": 812.0876305103302,
+        "net_time": 0.0009970664978027344
+    },
+    "(4, 40, 200)": {
+        "values_idx": 64,
+        "solver_result": 1072.0,
+        "solver_time": 0.21642255783081055,
+        "net_result": 1070.7712254226208,
+        "net_time": 0.0
+    },
+    "(4, 40, 250)": {
+        "values_idx": 98,
+        "solver_result": 1361.0,
+        "solver_time": 0.030919551849365234,
+        "net_result": 1361.0341891050339,
+        "net_time": 0.0009961128234863281
+    },
+    "(4, 40, 300)": {
+        "values_idx": 1,
+        "solver_result": 1423.0,
+        "solver_time": 0.14461541175842285,
+        "net_result": 1424.1366317868233,
+        "net_time": 0.000997781753540039
+    },
+    "(4, 40, 350)": {
+        "values_idx": 84,
+        "solver_result": 1827.0,
+        "solver_time": 0.3351142406463623,
+        "net_result": 1825.7173820734024,
+        "net_time": 0.0
+    },
+    "(4, 40, 400)": {
+        "values_idx": 67,
+        "solver_result": 1803.0,
+        "solver_time": 0.26329779624938965,
+        "net_result": 1801.8901252746582,
+        "net_time": 0.0
+    },
+    "(4, 40, 450)": {
+        "values_idx": 76,
+        "solver_result": 1840.0,
+        "solver_time": 0.6053831577301025,
+        "net_result": 1838.8357162475586,
+        "net_time": 0.0009946823120117188
+    },
+    "(4, 40, 500)": {
+        "values_idx": 49,
+        "solver_result": 2120.0,
+        "solver_time": 0.10073089599609375,
+        "net_result": 2118.01742836833,
+        "net_time": 0.0
+    },
+    "(4, 50, 100)": {
+        "values_idx": 90,
+        "solver_result": 662.0,
+        "solver_time": 0.05285835266113281,
+        "net_result": 661.1105473935604,
+        "net_time": 0.0
+    },
+    "(4, 50, 150)": {
+        "values_idx": 36,
+        "solver_result": 1050.0,
+        "solver_time": 0.05983996391296387,
+        "net_result": 1048.747104525566,
+        "net_time": 0.0
+    },
+    "(4, 50, 200)": {
+        "values_idx": 81,
+        "solver_result": 1102.0,
+        "solver_time": 0.23836326599121094,
+        "net_result": 1101.378103852272,
+        "net_time": 0.0
+    },
+    "(4, 50, 250)": {
+        "values_idx": 10,
+        "solver_result": 1528.0,
+        "solver_time": 0.013963699340820312,
+        "net_result": 1526.6525860130787,
+        "net_time": 0.0009989738464355469
+    },
+    "(4, 50, 300)": {
+        "values_idx": 52,
+        "solver_result": 1978.0,
+        "solver_time": 0.3450744152069092,
+        "net_result": 1976.371567696333,
+        "net_time": 0.0
+    },
+    "(4, 50, 350)": {
+        "values_idx": 90,
+        "solver_result": 2283.0,
+        "solver_time": 0.44381284713745117,
+        "net_result": 2280.6547197401524,
+        "net_time": 0.0009987354278564453
+    },
+    "(4, 50, 400)": {
+        "values_idx": 21,
+        "solver_result": 2291.0,
+        "solver_time": 0.19946527481079102,
+        "net_result": 2289.1841254234314,
+        "net_time": 0.0009980201721191406
+    },
+    "(4, 50, 450)": {
+        "values_idx": 86,
+        "solver_result": 2630.0,
+        "solver_time": 0.40192461013793945,
+        "net_result": 2628.1161645650864,
+        "net_time": 0.0009989738464355469
+    },
+    "(4, 50, 500)": {
+        "values_idx": 89,
+        "solver_result": 3124.0,
+        "solver_time": 0.3560469150543213,
+        "net_result": 3119.960342645645,
+        "net_time": 0.0
+    },
+    "(4, 60, 100)": {
+        "values_idx": 17,
+        "solver_result": 877.0,
+        "solver_time": 0.04089021682739258,
+        "net_result": 876.4701741635799,
+        "net_time": 0.000997781753540039
+    },
+    "(4, 60, 150)": {
+        "values_idx": 13,
+        "solver_result": 1035.0,
+        "solver_time": 0.29720544815063477,
+        "net_result": 1034.451938867569,
+        "net_time": 0.0
+    },
+    "(4, 60, 200)": {
+        "values_idx": 59,
+        "solver_result": 1408.0,
+        "solver_time": 0.2573122978210449,
+        "net_result": 1405.6347045898438,
+        "net_time": 0.0
+    },
+    "(4, 60, 250)": {
+        "values_idx": 24,
+        "solver_result": 1928.0,
+        "solver_time": 0.5914194583892822,
+        "net_result": 1924.5145382881165,
+        "net_time": 0.0009987354278564453
+    },
+    "(4, 60, 300)": {
+        "values_idx": 2,
+        "solver_result": 2320.0,
+        "solver_time": 0.32912206649780273,
+        "net_result": 2318.033333480358,
+        "net_time": 0.0
+    },
+    "(4, 60, 350)": {
+        "values_idx": 97,
+        "solver_result": 2427.0,
+        "solver_time": 0.1934814453125,
+        "net_result": 2422.076119273901,
+        "net_time": 0.000997304916381836
+    },
+    "(4, 60, 400)": {
+        "values_idx": 60,
+        "solver_result": 2956.0,
+        "solver_time": 0.300199031829834,
+        "net_result": 2953.32660984993,
+        "net_time": 0.0
+    },
+    "(4, 60, 450)": {
+        "values_idx": 73,
+        "solver_result": 3113.0,
+        "solver_time": 0.3411126136779785,
+        "net_result": 3109.83265042305,
+        "net_time": 0.0009737014770507812
+    },
+    "(4, 60, 500)": {
+        "values_idx": 53,
+        "solver_result": 3903.0,
+        "solver_time": 0.76894211769104,
+        "net_result": 3900.5316378474236,
+        "net_time": 0.0009968280792236328
+    },
+    "(4, 70, 100)": {
+        "values_idx": 44,
+        "solver_result": 995.0,
+        "solver_time": 0.03490734100341797,
+        "net_result": 994.1641325950623,
+        "net_time": 0.0
+    },
+    "(4, 70, 150)": {
+        "values_idx": 64,
+        "solver_result": 1156.0,
+        "solver_time": 0.04188656806945801,
+        "net_result": 1154.7281520366669,
+        "net_time": 0.0009982585906982422
+    },
+    "(4, 70, 200)": {
+        "values_idx": 3,
+        "solver_result": 1510.0,
+        "solver_time": 0.07579851150512695,
+        "net_result": 1508.7305898964405,
+        "net_time": 0.0
+    },
+    "(4, 70, 250)": {
+        "values_idx": 82,
+        "solver_result": 2020.9999999999998,
+        "solver_time": 0.06881594657897949,
+        "net_result": 2018.2183148860931,
+        "net_time": 0.0
+    },
+    "(4, 70, 300)": {
+        "values_idx": 42,
+        "solver_result": 2862.0,
+        "solver_time": 0.29421329498291016,
+        "net_result": 2857.791617512703,
+        "net_time": 0.00099945068359375
+    },
+    "(4, 70, 350)": {
+        "values_idx": 16,
+        "solver_result": 3209.0,
+        "solver_time": 0.3783586025238037,
+        "net_result": 3206.5244120955467,
+        "net_time": 0.0009741783142089844
+    },
+    "(4, 70, 400)": {
+        "values_idx": 80,
+        "solver_result": 2969.0,
+        "solver_time": 0.23437190055847168,
+        "net_result": 2964.5586245059967,
+        "net_time": 0.0009996891021728516
+    },
+    "(4, 70, 450)": {
+        "values_idx": 34,
+        "solver_result": 3853.0,
+        "solver_time": 0.04687666893005371,
+        "net_result": 3849.791785478592,
+        "net_time": 0.0009970664978027344
+    },
+    "(4, 70, 500)": {
+        "values_idx": 82,
+        "solver_result": 3846.0,
+        "solver_time": 0.3480710983276367,
+        "net_result": 3840.760044336319,
+        "net_time": 0.0
+    },
+    "(4, 80, 100)": {
+        "values_idx": 12,
+        "solver_result": 1047.0,
+        "solver_time": 0.015957355499267578,
+        "net_result": 1046.3763561844826,
+        "net_time": 0.0
+    },
+    "(4, 80, 150)": {
+        "values_idx": 46,
+        "solver_result": 1470.0,
+        "solver_time": 0.017951011657714844,
+        "net_result": 1469.3528547286987,
+        "net_time": 0.0
+    },
+    "(4, 80, 200)": {
+        "values_idx": 58,
+        "solver_result": 1826.0,
+        "solver_time": 0.016954660415649414,
+        "net_result": 1823.7901303768158,
+        "net_time": 0.0
+    },
+    "(4, 80, 250)": {
+        "values_idx": 96,
+        "solver_result": 2485.0,
+        "solver_time": 0.03291130065917969,
+        "net_result": 2481.9606280326843,
+        "net_time": 0.0009996891021728516
+    },
+    "(4, 80, 300)": {
+        "values_idx": 71,
+        "solver_result": 3035.0,
+        "solver_time": 0.5226912498474121,
+        "net_result": 3032.846565246582,
+        "net_time": 0.0
+    },
+    "(4, 80, 350)": {
+        "values_idx": 36,
+        "solver_result": 3194.0,
+        "solver_time": 0.27426624298095703,
+        "net_result": 3191.3784670233727,
+        "net_time": 0.0
+    },
+    "(4, 80, 400)": {
+        "values_idx": 65,
+        "solver_result": 4445.0,
+        "solver_time": 0.4952423572540283,
+        "net_result": 4439.772681593895,
+        "net_time": 0.0
+    },
+    "(4, 80, 450)": {
+        "values_idx": 73,
+        "solver_result": 4426.0,
+        "solver_time": 0.4218728542327881,
+        "net_result": 4421.652584522963,
+        "net_time": 0.0
+    },
+    "(4, 80, 500)": {
+        "values_idx": 1,
+        "solver_result": 4515.0,
+        "solver_time": 0.23935961723327637,
+        "net_result": 4509.856674671173,
+        "net_time": 0.0029921531677246094
+    },
+    "(4, 90, 100)": {
+        "values_idx": 36,
+        "solver_result": 1068.0,
+        "solver_time": 0.0329129695892334,
+        "net_result": 1067.2141731381416,
+        "net_time": 0.0
+    },
+    "(4, 90, 150)": {
+        "values_idx": 83,
+        "solver_result": 1912.0,
+        "solver_time": 0.08377814292907715,
+        "net_result": 1910.4568826556206,
+        "net_time": 0.0009944438934326172
+    },
+    "(4, 90, 200)": {
+        "values_idx": 49,
+        "solver_result": 2216.0,
+        "solver_time": 0.056847572326660156,
+        "net_result": 2214.4825181365013,
+        "net_time": 0.0009980201721191406
+    },
+    "(4, 90, 250)": {
+        "values_idx": 48,
+        "solver_result": 2539.0,
+        "solver_time": 0.014960765838623047,
+        "net_result": 2536.6794530153275,
+        "net_time": 0.0009984970092773438
+    },
+    "(4, 90, 300)": {
+        "values_idx": 74,
+        "solver_result": 3436.0,
+        "solver_time": 0.3430821895599365,
+        "net_result": 3432.660039514303,
+        "net_time": 0.0
+    },
+    "(4, 90, 350)": {
+        "values_idx": 12,
+        "solver_result": 3673.0,
+        "solver_time": 0.42885303497314453,
+        "net_result": 3670.1197850704193,
+        "net_time": 0.0
+    },
+    "(4, 90, 400)": {
+        "values_idx": 99,
+        "solver_result": 4711.0,
+        "solver_time": 0.09873676300048828,
+        "net_result": 4705.641942858696,
+        "net_time": 0.0009980201721191406
+    },
+    "(4, 90, 450)": {
+        "values_idx": 55,
+        "solver_result": 4735.0,
+        "solver_time": 0.22739291191101074,
+        "net_result": 4729.963231086731,
+        "net_time": 0.0
+    },
+    "(4, 90, 500)": {
+        "values_idx": 88,
+        "solver_result": 5813.0,
+        "solver_time": 0.323136568069458,
+        "net_result": 5808.782964527607,
+        "net_time": 0.0
+    },
+    "(5, 100, 100)": {
+        "values_idx": 35,
+        "solver_result": 951.0,
+        "solver_time": 0.023935317993164062,
+        "net_result": 949.9595636725426,
+        "net_time": 0.0
+    },
+    "(5, 100, 150)": {
+        "values_idx": 10,
+        "solver_result": 1294.0,
+        "solver_time": 0.023935794830322266,
+        "net_result": 1292.8504181206226,
+        "net_time": 0.0
+    },
+    "(5, 100, 200)": {
+        "values_idx": 25,
+        "solver_result": 2022.0,
+        "solver_time": 0.43483495712280273,
+        "net_result": 2019.2379989624023,
+        "net_time": 0.0009975433349609375
+    },
+    "(5, 100, 250)": {
+        "values_idx": 43,
+        "solver_result": 2515.0,
+        "solver_time": 0.5082046985626221,
+        "net_result": 2512.0202872902155,
+        "net_time": 0.0009980201721191406
+    },
+    "(5, 100, 300)": {
+        "values_idx": 18,
+        "solver_result": 2988.0,
+        "solver_time": 0.06183481216430664,
+        "net_result": 2983.715658187866,
+        "net_time": 0.0
+    },
+    "(5, 100, 350)": {
+        "values_idx": 96,
+        "solver_result": 3299.0,
+        "solver_time": 0.8886244297027588,
+        "net_result": 3294.6439690589905,
+        "net_time": 0.0
+    },
+    "(5, 100, 400)": {
+        "values_idx": 68,
+        "solver_result": 3822.0,
+        "solver_time": 0.39597105979919434,
+        "net_result": 3816.897388547659,
+        "net_time": 0.0009925365447998047
+    },
+    "(5, 100, 450)": {
+        "values_idx": 10,
+        "solver_result": 5023.0,
+        "solver_time": 0.47074341773986816,
+        "net_result": 5015.883102118969,
+        "net_time": 0.0
+    },
+    "(5, 100, 500)": {
+        "values_idx": 40,
+        "solver_result": 4703.0,
+        "solver_time": 0.8807706832885742,
+        "net_result": 4697.501259446144,
+        "net_time": 0.0009980201721191406
+    },
+    "(5, 30, 100)": {
+        "values_idx": 55,
+        "solver_result": 263.0,
+        "solver_time": 0.17752742767333984,
+        "net_result": 262.6686336994171,
+        "net_time": 0.0
+    },
+    "(5, 30, 150)": {
+        "values_idx": 89,
+        "solver_result": 485.0,
+        "solver_time": 0.3281230926513672,
+        "net_result": 483.96804398298264,
+        "net_time": 0.0009975433349609375
+    },
+    "(5, 30, 200)": {
+        "values_idx": 44,
+        "solver_result": 639.0,
+        "solver_time": 0.18450617790222168,
+        "net_result": 638.3887548744678,
+        "net_time": 0.0
+    },
+    "(5, 30, 250)": {
+        "values_idx": 20,
+        "solver_result": 802.0,
+        "solver_time": 0.6033856868743896,
+        "net_result": 800.9695566594601,
+        "net_time": 0.0
+    },
+    "(5, 30, 300)": {
+        "values_idx": 54,
+        "solver_result": 684.0,
+        "solver_time": 0.192488431930542,
+        "net_result": 681.9468033313751,
+        "net_time": 0.0
+    },
+    "(5, 30, 350)": {
+        "values_idx": 7,
+        "solver_result": 1054.0,
+        "solver_time": 1.2546427249908447,
+        "net_result": 1051.186061680317,
+        "net_time": 0.0
+    },
+    "(5, 30, 400)": {
+        "values_idx": 92,
+        "solver_result": 1218.0,
+        "solver_time": 2.6483023166656494,
+        "net_result": 1216.096032857895,
+        "net_time": 0.0
+    },
+    "(5, 30, 450)": {
+        "values_idx": 61,
+        "solver_result": 1323.0,
+        "solver_time": 1.5246851444244385,
+        "net_result": 1318.692498832941,
+        "net_time": 0.000997781753540039
+    },
+    "(5, 30, 500)": {
+        "values_idx": 22,
+        "solver_result": 1441.9999999999907,
+        "solver_time": 0.23536896705627441,
+        "net_result": 1439.8163432180882,
+        "net_time": 0.000997781753540039
+    },
+    "(5, 40, 100)": {
+        "values_idx": 71,
+        "solver_result": 386.0,
+        "solver_time": 0.030917644500732422,
+        "net_result": 386.1824349761009,
+        "net_time": 0.0009984970092773438
+    },
+    "(5, 40, 150)": {
+        "values_idx": 18,
+        "solver_result": 587.0,
+        "solver_time": 0.262296199798584,
+        "net_result": 586.187282949686,
+        "net_time": 0.0
+    },
+    "(5, 40, 200)": {
+        "values_idx": 94,
+        "solver_result": 862.0,
+        "solver_time": 0.3480708599090576,
+        "net_result": 861.0064120292664,
+        "net_time": 0.0009968280792236328
+    },
+    "(5, 40, 250)": {
+        "values_idx": 36,
+        "solver_result": 882.9999999999999,
+        "solver_time": 0.6861655712127686,
+        "net_result": 883.3427061140537,
+        "net_time": 0.0
+    },
+    "(5, 40, 300)": {
+        "values_idx": 12,
+        "solver_result": 1209.0,
+        "solver_time": 1.1479310989379883,
+        "net_result": 1207.681586265564,
+        "net_time": 0.0
+    },
+    "(5, 40, 350)": {
+        "values_idx": 52,
+        "solver_result": 1339.0,
+        "solver_time": 0.370009183883667,
+        "net_result": 1337.3001437187195,
+        "net_time": 0.0
+    },
+    "(5, 40, 400)": {
+        "values_idx": 10,
+        "solver_result": 1439.0,
+        "solver_time": 0.7240655422210693,
+        "net_result": 1439.1780499368906,
+        "net_time": 0.0009963512420654297
+    },
+    "(5, 40, 450)": {
+        "values_idx": 25,
+        "solver_result": 1583.0,
+        "solver_time": 0.8168139457702637,
+        "net_result": 1580.6941325068474,
+        "net_time": 0.0
+    },
+    "(5, 40, 500)": {
+        "values_idx": 73,
+        "solver_result": 2109.0,
+        "solver_time": 1.3763206005096436,
+        "net_result": 2106.300490871072,
+        "net_time": 0.000997781753540039
+    },
+    "(5, 50, 100)": {
+        "values_idx": 74,
+        "solver_result": 478.0,
+        "solver_time": 0.30518412590026855,
+        "net_result": 477.89892578125,
+        "net_time": 0.0009980201721191406
+    },
+    "(5, 50, 150)": {
+        "values_idx": 91,
+        "solver_result": 828.0,
+        "solver_time": 0.10272693634033203,
+        "net_result": 827.0261889696121,
+        "net_time": 0.0009975433349609375
+    },
+    "(5, 50, 200)": {
+        "values_idx": 14,
+        "solver_result": 924.0,
+        "solver_time": 0.47373151779174805,
+        "net_result": 922.2605484724045,
+        "net_time": 0.0009968280792236328
+    },
+    "(5, 50, 250)": {
+        "values_idx": 78,
+        "solver_result": 1248.0,
+        "solver_time": 1.4541106224060059,
+        "net_result": 1245.2758884429932,
+        "net_time": 0.0
+    },
+    "(5, 50, 300)": {
+        "values_idx": 14,
+        "solver_result": 1615.0,
+        "solver_time": 0.21143412590026855,
+        "net_result": 1612.7761564403772,
+        "net_time": 0.0009984970092773438
+    },
+    "(5, 50, 350)": {
+        "values_idx": 89,
+        "solver_result": 1779.0,
+        "solver_time": 0.3470723628997803,
+        "net_result": 1777.642933934927,
+        "net_time": 0.0
+    },
+    "(5, 50, 400)": {
+        "values_idx": 67,
+        "solver_result": 2127.0,
+        "solver_time": 1.0970683097839355,
+        "net_result": 2122.057230234146,
+        "net_time": 0.0009965896606445312
+    },
+    "(5, 50, 450)": {
+        "values_idx": 5,
+        "solver_result": 2321.0,
+        "solver_time": 1.1299777030944824,
+        "net_result": 2316.006346285343,
+        "net_time": 0.0
+    },
+    "(5, 50, 500)": {
+        "values_idx": 46,
+        "solver_result": 2275.0,
+        "solver_time": 1.873795986175537,
+        "net_result": 2269.3975269794464,
+        "net_time": 0.0010004043579101562
+    },
+    "(5, 60, 100)": {
+        "values_idx": 1,
+        "solver_result": 603.0,
+        "solver_time": 0.2672855854034424,
+        "net_result": 602.5043532848358,
+        "net_time": 0.0
+    },
+    "(5, 60, 150)": {
+        "values_idx": 79,
+        "solver_result": 907.0,
+        "solver_time": 0.3979365825653076,
+        "net_result": 906.6023939847946,
+        "net_time": 0.0
+    },
+    "(5, 60, 200)": {
+        "values_idx": 20,
+        "solver_result": 1075.0,
+        "solver_time": 0.019946813583374023,
+        "net_result": 1073.6849476099014,
+        "net_time": 0.0
+    },
+    "(5, 60, 250)": {
+        "values_idx": 31,
+        "solver_result": 1465.0,
+        "solver_time": 0.2922184467315674,
+        "net_result": 1464.017246901989,
+        "net_time": 0.0
+    },
+    "(5, 60, 300)": {
+        "values_idx": 18,
+        "solver_result": 1782.0,
+        "solver_time": 0.260303258895874,
+        "net_result": 1779.4645013809204,
+        "net_time": 0.0009982585906982422
+    },
+    "(5, 60, 350)": {
+        "values_idx": 6,
+        "solver_result": 2257.0,
+        "solver_time": 0.7759268283843994,
+        "net_result": 2254.434260368347,
+        "net_time": 0.0009968280792236328
+    },
+    "(5, 60, 400)": {
+        "values_idx": 4,
+        "solver_result": 2723.0,
+        "solver_time": 0.22539877891540527,
+        "net_result": 2719.5653024315834,
+        "net_time": 0.0009970664978027344
+    },
+    "(5, 60, 450)": {
+        "values_idx": 12,
+        "solver_result": 2515.0,
+        "solver_time": 0.36003684997558594,
+        "net_result": 2511.667729407549,
+        "net_time": 0.000997781753540039
+    },
+    "(5, 60, 500)": {
+        "values_idx": 84,
+        "solver_result": 2807.0,
+        "solver_time": 0.4767265319824219,
+        "net_result": 2804.0188374221325,
+        "net_time": 0.0009965896606445312
+    },
+    "(5, 70, 100)": {
+        "values_idx": 81,
+        "solver_result": 600.0,
+        "solver_time": 0.016955137252807617,
+        "net_result": 599.7257843613625,
+        "net_time": 0.0009984970092773438
+    },
+    "(5, 70, 150)": {
+        "values_idx": 13,
+        "solver_result": 1015.0,
+        "solver_time": 0.10471963882446289,
+        "net_result": 1014.5040951669216,
+        "net_time": 0.0009980201721191406
+    },
+    "(5, 70, 200)": {
+        "values_idx": 77,
+        "solver_result": 1392.0,
+        "solver_time": 0.08078598976135254,
+        "net_result": 1390.2044173181057,
+        "net_time": 0.0
+    },
+    "(5, 70, 250)": {
+        "values_idx": 25,
+        "solver_result": 1756.0,
+        "solver_time": 0.7759239673614502,
+        "net_result": 1753.1003922224045,
+        "net_time": 0.0
+    },
+    "(5, 70, 300)": {
+        "values_idx": 81,
+        "solver_result": 2069.0,
+        "solver_time": 0.3700113296508789,
+        "net_result": 2067.125221669674,
+        "net_time": 0.0
+    },
+    "(5, 70, 350)": {
+        "values_idx": 88,
+        "solver_result": 2511.0,
+        "solver_time": 0.6193442344665527,
+        "net_result": 2506.919969767332,
+        "net_time": 0.0
+    },
+    "(5, 70, 400)": {
+        "values_idx": 7,
+        "solver_result": 2873.0,
+        "solver_time": 1.4920105934143066,
+        "net_result": 2868.438740968704,
+        "net_time": 0.0
+    },
+    "(5, 70, 450)": {
+        "values_idx": 74,
+        "solver_result": 2814.0,
+        "solver_time": 0.4009275436401367,
+        "net_result": 2809.6686417013407,
+        "net_time": 0.0009982585906982422
+    },
+    "(5, 70, 500)": {
+        "values_idx": 22,
+        "solver_result": 3415.0,
+        "solver_time": 0.7400217056274414,
+        "net_result": 3407.26057626307,
+        "net_time": 0.0
+    },
+    "(5, 80, 100)": {
+        "values_idx": 86,
+        "solver_result": 784.0,
+        "solver_time": 0.3261291980743408,
+        "net_result": 783.4725466072559,
+        "net_time": 0.000997304916381836
+    },
+    "(5, 80, 150)": {
+        "values_idx": 6,
+        "solver_result": 1280.0,
+        "solver_time": 0.3899855613708496,
+        "net_result": 1278.2298274040222,
+        "net_time": 0.0
+    },
+    "(5, 80, 200)": {
+        "values_idx": 16,
+        "solver_result": 1569.0,
+        "solver_time": 0.03690052032470703,
+        "net_result": 1567.793935418129,
+        "net_time": 0.0
+    },
+    "(5, 80, 250)": {
+        "values_idx": 46,
+        "solver_result": 2027.9999999999995,
+        "solver_time": 0.3690145015716553,
+        "net_result": 2025.0295830070972,
+        "net_time": 0.0009963512420654297
+    },
+    "(5, 80, 300)": {
+        "values_idx": 29,
+        "solver_result": 2565.0,
+        "solver_time": 0.6562454700469971,
+        "net_result": 2561.582976937294,
+        "net_time": 0.0009889602661132812
+    },
+    "(5, 80, 350)": {
+        "values_idx": 62,
+        "solver_result": 2652.0,
+        "solver_time": 0.03191518783569336,
+        "net_result": 2648.7747153043747,
+        "net_time": 0.000995635986328125
+    },
+    "(5, 80, 400)": {
+        "values_idx": 92,
+        "solver_result": 3341.0,
+        "solver_time": 0.2872319221496582,
+        "net_result": 3336.4729509353638,
+        "net_time": 0.0009987354278564453
+    },
+    "(5, 80, 450)": {
+        "values_idx": 58,
+        "solver_result": 3458.0,
+        "solver_time": 3.2016384601593018,
+        "net_result": 3453.553166538477,
+        "net_time": 0.0009975433349609375
+    },
+    "(5, 80, 500)": {
+        "values_idx": 55,
+        "solver_result": 4277.0,
+        "solver_time": 0.9434771537780762,
+        "net_result": 4272.459894448519,
+        "net_time": 0.0009982585906982422
+    },
+    "(5, 90, 100)": {
+        "values_idx": 18,
+        "solver_result": 940.0,
+        "solver_time": 0.3400907516479492,
+        "net_result": 938.7973956763744,
+        "net_time": 0.0009975433349609375
+    },
+    "(5, 90, 150)": {
+        "values_idx": 93,
+        "solver_result": 1288.0,
+        "solver_time": 0.03690147399902344,
+        "net_result": 1286.2757474184036,
+        "net_time": 0.0019953250885009766
+    },
+    "(5, 90, 200)": {
+        "values_idx": 21,
+        "solver_result": 1799.0,
+        "solver_time": 0.08776617050170898,
+        "net_result": 1797.579565525055,
+        "net_time": 0.0
+    },
+    "(5, 90, 250)": {
+        "values_idx": 74,
+        "solver_result": 2098.0,
+        "solver_time": 0.03191375732421875,
+        "net_result": 2095.272006288171,
+        "net_time": 0.0
+    },
+    "(5, 90, 300)": {
+        "values_idx": 76,
+        "solver_result": 2844.0,
+        "solver_time": 0.9356045722961426,
+        "net_result": 2841.1542196273804,
+        "net_time": 0.0
+    },
+    "(5, 90, 350)": {
+        "values_idx": 16,
+        "solver_result": 3380.0,
+        "solver_time": 0.540555477142334,
+        "net_result": 3375.3181850910187,
+        "net_time": 0.0
+    },
+    "(5, 90, 400)": {
+        "values_idx": 23,
+        "solver_result": 3820.0,
+        "solver_time": 2.3716585636138916,
+        "net_result": 3815.7880812883377,
+        "net_time": 0.0
+    },
+    "(5, 90, 450)": {
+        "values_idx": 33,
+        "solver_result": 4332.0,
+        "solver_time": 0.7021229267120361,
+        "net_result": 4326.6680400669575,
+        "net_time": 0.0009970664978027344
+    },
+    "(5, 90, 500)": {
+        "values_idx": 81,
+        "solver_result": 4653.0,
+        "solver_time": 1.3424110412597656,
+        "net_result": 4648.125010371208,
+        "net_time": 0.0
+    },
+    "(6, 100, 100)": {
+        "values_idx": 41,
+        "solver_result": 839.0,
+        "solver_time": 0.03789663314819336,
+        "net_result": 837.917386174202,
+        "net_time": 0.000997781753540039
+    },
+    "(6, 100, 150)": {
+        "values_idx": 37,
+        "solver_result": 1296.0,
+        "solver_time": 0.5525233745574951,
+        "net_result": 1293.8226985931396,
+        "net_time": 0.0
+    },
+    "(6, 100, 200)": {
+        "values_idx": 69,
+        "solver_result": 1549.0,
+        "solver_time": 0.05189681053161621,
+        "net_result": 1547.6503801941872,
+        "net_time": 0.0
+    },
+    "(6, 100, 250)": {
+        "values_idx": 93,
+        "solver_result": 1986.0,
+        "solver_time": 0.5694684982299805,
+        "net_result": 1983.7557610571384,
+        "net_time": 0.0
+    },
+    "(6, 100, 300)": {
+        "values_idx": 2,
+        "solver_result": 2628.0,
+        "solver_time": 0.6562438011169434,
+        "net_result": 2626.369413614273,
+        "net_time": 0.0
+    },
+    "(6, 100, 350)": {
+        "values_idx": 21,
+        "solver_result": 2971.0,
+        "solver_time": 0.8557133674621582,
+        "net_result": 2968.8030836880207,
+        "net_time": 0.0009975433349609375
+    },
+    "(6, 100, 400)": {
+        "values_idx": 46,
+        "solver_result": 3195.0,
+        "solver_time": 2.498098611831665,
+        "net_result": 3191.6992288827896,
+        "net_time": 0.0
+    },
+    "(6, 100, 450)": {
+        "values_idx": 41,
+        "solver_result": 3570.0,
+        "solver_time": 0.6692097187042236,
+        "net_result": 3565.455672249198,
+        "net_time": 0.0009980201721191406
+    },
+    "(6, 100, 500)": {
+        "values_idx": 22,
+        "solver_result": 3805.0,
+        "solver_time": 2.1156723499298096,
+        "net_result": 3799.587294459343,
+        "net_time": 0.0009982585906982422
+    },
+    "(6, 30, 100)": {
+        "values_idx": 40,
+        "solver_result": 242.0,
+        "solver_time": 0.31316232681274414,
+        "net_result": 241.237547904253,
+        "net_time": 0.000997304916381836
+    },
+    "(6, 30, 150)": {
+        "values_idx": 79,
+        "solver_result": 377.0,
+        "solver_time": 1.1259901523590088,
+        "net_result": 377.0369253307581,
+        "net_time": 0.001993894577026367
+    },
+    "(6, 30, 200)": {
+        "values_idx": 26,
+        "solver_result": 479.0,
+        "solver_time": 2.0546071529388428,
+        "net_result": 477.7117672562599,
+        "net_time": 0.0
+    },
+    "(6, 30, 250)": {
+        "values_idx": 41,
+        "solver_result": 669.0,
+        "solver_time": 2.969062089920044,
+        "net_result": 666.8463238477707,
+        "net_time": 0.0009975433349609375
+    },
+    "(6, 30, 300)": {
+        "values_idx": 73,
+        "solver_result": 713.0,
+        "solver_time": 5.123297214508057,
+        "net_result": 710.8730332553387,
+        "net_time": 0.001001119613647461
+    },
+    "(6, 30, 350)": {
+        "values_idx": 9,
+        "solver_result": 828.0,
+        "solver_time": 0.6412849426269531,
+        "net_result": 826.1534799784422,
+        "net_time": 0.000997304916381836
+    },
+    "(6, 30, 400)": {
+        "values_idx": 47,
+        "solver_result": 984.0,
+        "solver_time": 1.8779778480529785,
+        "net_result": 981.5161323547363,
+        "net_time": 0.0009975433349609375
+    },
+    "(6, 30, 450)": {
+        "values_idx": 45,
+        "solver_result": 1112.0,
+        "solver_time": 11.515207767486572,
+        "net_result": 1108.7941477000713,
+        "net_time": 0.0
+    },
+    "(6, 30, 500)": {
+        "values_idx": 62,
+        "solver_result": 1284.0,
+        "solver_time": 208.62534093856812,
+        "net_result": 1281.7266886532307,
+        "net_time": 0.0009975433349609375
+    },
+    "(6, 40, 100)": {
+        "values_idx": 52,
+        "solver_result": 326.0,
+        "solver_time": 0.28823232650756836,
+        "net_result": 325.33163475990295,
+        "net_time": 0.0009958744049072266
+    },
+    "(6, 40, 150)": {
+        "values_idx": 82,
+        "solver_result": 516.0,
+        "solver_time": 0.7532470226287842,
+        "net_result": 514.8888373374939,
+        "net_time": 0.0009970664978027344
+    },
+    "(6, 40, 200)": {
+        "values_idx": 33,
+        "solver_result": 716.0,
+        "solver_time": 0.4916837215423584,
+        "net_result": 714.7648256421089,
+        "net_time": 0.0
+    },
+    "(6, 40, 250)": {
+        "values_idx": 27,
+        "solver_result": 786.0,
+        "solver_time": 1.7041795253753662,
+        "net_result": 784.8378086090088,
+        "net_time": 0.0
+    },
+    "(6, 40, 300)": {
+        "values_idx": 65,
+        "solver_result": 914.0,
+        "solver_time": 1.7039430141448975,
+        "net_result": 912.3523478507996,
+        "net_time": 0.0009980201721191406
+    },
+    "(6, 40, 350)": {
+        "values_idx": 44,
+        "solver_result": 1194.0,
+        "solver_time": 1.5982935428619385,
+        "net_result": 1193.0322754234076,
+        "net_time": 0.0009970664978027344
+    },
+    "(6, 40, 400)": {
+        "values_idx": 29,
+        "solver_result": 1410.0,
+        "solver_time": 1.2229335308074951,
+        "net_result": 1408.4826614707708,
+        "net_time": 0.001013040542602539
+    },
+    "(6, 40, 450)": {
+        "values_idx": 20,
+        "solver_result": 1398.0,
+        "solver_time": 1.4356606006622314,
+        "net_result": 1395.2678228765726,
+        "net_time": 0.0009965896606445312
+    },
+    "(6, 40, 500)": {
+        "values_idx": 98,
+        "solver_result": 1397.0,
+        "solver_time": 2.5046803951263428,
+        "net_result": 1392.3115812540054,
+        "net_time": 0.0009982585906982422
+    },
+    "(6, 50, 100)": {
+        "values_idx": 9,
+        "solver_result": 407.0,
+        "solver_time": 0.38698673248291016,
+        "net_result": 406.15059220790863,
+        "net_time": 0.0
+    },
+    "(6, 50, 150)": {
+        "values_idx": 64,
+        "solver_result": 593.9999999999999,
+        "solver_time": 1.0312657356262207,
+        "net_result": 592.9716394543648,
+        "net_time": 0.0
+    },
+    "(6, 50, 200)": {
+        "values_idx": 26,
+        "solver_result": 677.0,
+        "solver_time": 0.17140817642211914,
+        "net_result": 676.9439917504787,
+        "net_time": 0.000997304916381836
+    },
+    "(6, 50, 250)": {
+        "values_idx": 70,
+        "solver_result": 1078.0,
+        "solver_time": 0.8038914203643799,
+        "net_result": 1075.9554311931133,
+        "net_time": 0.0009987354278564453
+    },
+    "(6, 50, 300)": {
+        "values_idx": 87,
+        "solver_result": 1105.0,
+        "solver_time": 0.6303341388702393,
+        "net_result": 1102.7772203087807,
+        "net_time": 0.0
+    },
+    "(6, 50, 350)": {
+        "values_idx": 16,
+        "solver_result": 1393.0,
+        "solver_time": 0.7714495658874512,
+        "net_result": 1389.6949220597744,
+        "net_time": 0.0009987354278564453
+    },
+    "(6, 50, 400)": {
+        "values_idx": 29,
+        "solver_result": 1792.0,
+        "solver_time": 6.793936014175415,
+        "net_result": 1788.1402454674244,
+        "net_time": 0.00099945068359375
+    },
+    "(6, 50, 450)": {
+        "values_idx": 78,
+        "solver_result": 1968.0,
+        "solver_time": 7.5621678829193115,
+        "net_result": 1963.1437241137028,
+        "net_time": 0.0009989738464355469
+    },
+    "(6, 50, 500)": {
+        "values_idx": 25,
+        "solver_result": 2125.0,
+        "solver_time": 44.46257448196411,
+        "net_result": 2118.931345552206,
+        "net_time": 0.0009975433349609375
+    },
+    "(6, 60, 100)": {
+        "values_idx": 54,
+        "solver_result": 485.0,
+        "solver_time": 0.2825586795806885,
+        "net_result": 484.7044666111469,
+        "net_time": 0.0
+    },
+    "(6, 60, 150)": {
+        "values_idx": 16,
+        "solver_result": 740.0,
+        "solver_time": 0.3500845432281494,
+        "net_result": 738.4740149974823,
+        "net_time": 0.000997304916381836
+    },
+    "(6, 60, 200)": {
+        "values_idx": 14,
+        "solver_result": 1010.0,
+        "solver_time": 0.610903263092041,
+        "net_result": 1008.9452702701092,
+        "net_time": 0.0009965896606445312
+    },
+    "(6, 60, 250)": {
+        "values_idx": 42,
+        "solver_result": 1391.0,
+        "solver_time": 0.8078391551971436,
+        "net_result": 1389.0444345623255,
+        "net_time": 0.0
+    },
+    "(6, 60, 300)": {
+        "values_idx": 60,
+        "solver_result": 1532.0,
+        "solver_time": 2.5158395767211914,
+        "net_result": 1528.7983374595642,
+        "net_time": 0.0009984970092773438
+    },
+    "(6, 60, 350)": {
+        "values_idx": 58,
+        "solver_result": 1850.0,
+        "solver_time": 2.606971025466919,
+        "net_result": 1846.8496263027191,
+        "net_time": 0.0
+    },
+    "(6, 60, 400)": {
+        "values_idx": 61,
+        "solver_result": 1836.0,
+        "solver_time": 3.028207540512085,
+        "net_result": 1834.4318437874317,
+        "net_time": 0.0009980201721191406
+    },
+    "(6, 60, 450)": {
+        "values_idx": 98,
+        "solver_result": 2519.0,
+        "solver_time": 5.966500520706177,
+        "net_result": 2514.983074963093,
+        "net_time": 0.0009980201721191406
+    },
+    "(6, 60, 500)": {
+        "values_idx": 7,
+        "solver_result": 2403.0,
+        "solver_time": 3.5322349071502686,
+        "net_result": 2399.4383704662323,
+        "net_time": 0.0009970664978027344
+    },
+    "(6, 70, 100)": {
+        "values_idx": 53,
+        "solver_result": 607.0,
+        "solver_time": 0.020940542221069336,
+        "net_result": 606.5029625594616,
+        "net_time": 0.0009965896606445312
+    },
+    "(6, 70, 150)": {
+        "values_idx": 67,
+        "solver_result": 931.0,
+        "solver_time": 0.6595098972320557,
+        "net_result": 929.7857804298401,
+        "net_time": 0.0
+    },
+    "(6, 70, 200)": {
+        "values_idx": 37,
+        "solver_result": 1087.0,
+        "solver_time": 0.05983924865722656,
+        "net_result": 1085.2790697366,
+        "net_time": 0.000997781753540039
+    },
+    "(6, 70, 250)": {
+        "values_idx": 96,
+        "solver_result": 1375.0,
+        "solver_time": 2.018066883087158,
+        "net_result": 1372.643282532692,
+        "net_time": 0.0009987354278564453
+    },
+    "(6, 70, 300)": {
+        "values_idx": 77,
+        "solver_result": 1706.0,
+        "solver_time": 3.482506513595581,
+        "net_result": 1702.6239342689514,
+        "net_time": 0.0010001659393310547
+    },
+    "(6, 70, 350)": {
+        "values_idx": 9,
+        "solver_result": 2137.0,
+        "solver_time": 3.0753393173217773,
+        "net_result": 2132.2951449751854,
+        "net_time": 0.0009963512420654297
+    },
+    "(6, 70, 400)": {
+        "values_idx": 58,
+        "solver_result": 2414.0,
+        "solver_time": 1.4220657348632812,
+        "net_result": 2410.144930034876,
+        "net_time": 0.001013040542602539
+    },
+    "(6, 70, 450)": {
+        "values_idx": 49,
+        "solver_result": 2900.0,
+        "solver_time": 4.318583011627197,
+        "net_result": 2893.9995646476746,
+        "net_time": 0.0
+    },
+    "(6, 70, 500)": {
+        "values_idx": 90,
+        "solver_result": 2536.0000000000005,
+        "solver_time": 1.1824941635131836,
+        "net_result": 2531.5592229366302,
+        "net_time": 0.0009992122650146484
+    },
+    "(6, 80, 100)": {
+        "values_idx": 74,
+        "solver_result": 647.0,
+        "solver_time": 0.02592921257019043,
+        "net_result": 646.491659194231,
+        "net_time": 0.0
+    },
+    "(6, 80, 150)": {
+        "values_idx": 78,
+        "solver_result": 950.0,
+        "solver_time": 0.5500445365905762,
+        "net_result": 949.1925175189972,
+        "net_time": 0.0009970664978027344
+    },
+    "(6, 80, 200)": {
+        "values_idx": 49,
+        "solver_result": 1350.0,
+        "solver_time": 0.831287145614624,
+        "net_result": 1348.278373003006,
+        "net_time": 0.0
+    },
+    "(6, 80, 250)": {
+        "values_idx": 67,
+        "solver_result": 1558.0,
+        "solver_time": 2.322953939437866,
+        "net_result": 1555.738992869854,
+        "net_time": 0.0009968280792236328
+    },
+    "(6, 80, 300)": {
+        "values_idx": 14,
+        "solver_result": 1827.0,
+        "solver_time": 0.20148777961730957,
+        "net_result": 1823.4183931052685,
+        "net_time": 0.0
+    },
+    "(6, 80, 350)": {
+        "values_idx": 53,
+        "solver_result": 2506.9999999999995,
+        "solver_time": 0.7972733974456787,
+        "net_result": 2502.296239197254,
+        "net_time": 0.000997304916381836
+    },
+    "(6, 80, 400)": {
+        "values_idx": 36,
+        "solver_result": 2673.0,
+        "solver_time": 0.8599286079406738,
+        "net_result": 2670.2853715717793,
+        "net_time": 0.0009963512420654297
+    },
+    "(6, 80, 450)": {
+        "values_idx": 92,
+        "solver_result": 3021.0,
+        "solver_time": 5.0392067432403564,
+        "net_result": 3015.0707700252533,
+        "net_time": 0.0
+    },
+    "(6, 80, 500)": {
+        "values_idx": 60,
+        "solver_result": 3525.0,
+        "solver_time": 6.44019627571106,
+        "net_result": 3519.016668587923,
+        "net_time": 0.0009987354278564453
+    },
+    "(6, 90, 100)": {
+        "values_idx": 94,
+        "solver_result": 736.0,
+        "solver_time": 0.05485177040100098,
+        "net_result": 735.4604712128639,
+        "net_time": 0.0
+    },
+    "(6, 90, 150)": {
+        "values_idx": 65,
+        "solver_result": 1063.0,
+        "solver_time": 0.08676767349243164,
+        "net_result": 1061.5830421447754,
+        "net_time": 0.0
+    },
+    "(6, 90, 200)": {
+        "values_idx": 50,
+        "solver_result": 1501.0,
+        "solver_time": 0.4934256076812744,
+        "net_result": 1499.3436918258667,
+        "net_time": 0.0
+    },
+    "(6, 90, 250)": {
+        "values_idx": 3,
+        "solver_result": 1885.0,
+        "solver_time": 0.8542582988739014,
+        "net_result": 1882.7421737611294,
+        "net_time": 0.0009968280792236328
+    },
+    "(6, 90, 300)": {
+        "values_idx": 93,
+        "solver_result": 2196.0,
+        "solver_time": 0.4805288314819336,
+        "net_result": 2193.1425788998604,
+        "net_time": 0.0
+    },
+    "(6, 90, 350)": {
+        "values_idx": 66,
+        "solver_result": 2607.0,
+        "solver_time": 0.4232332706451416,
+        "net_result": 2604.420686483383,
+        "net_time": 0.0
+    },
+    "(6, 90, 400)": {
+        "values_idx": 15,
+        "solver_result": 2870.0,
+        "solver_time": 0.4667778015136719,
+        "net_result": 2864.7219397574663,
+        "net_time": 0.0
+    },
+    "(6, 90, 450)": {
+        "values_idx": 12,
+        "solver_result": 3253.0,
+        "solver_time": 1.2895617485046387,
+        "net_result": 3248.0547117888927,
+        "net_time": 0.0
+    },
+    "(6, 90, 500)": {
+        "values_idx": 57,
+        "solver_result": 3712.0,
+        "solver_time": 2.220118284225464,
+        "net_result": 3705.251774907112,
+        "net_time": 0.0
+    },
+    "(7, 100, 100)": {
+        "values_idx": 0,
+        "solver_result": 660.0,
+        "solver_time": 0.039893150329589844,
+        "net_result": 659.5726791322231,
+        "net_time": 0.0009975433349609375
+    },
+    "(7, 100, 150)": {
+        "values_idx": 26,
+        "solver_result": 938.0,
+        "solver_time": 0.038896799087524414,
+        "net_result": 936.7999811470509,
+        "net_time": 0.000997781753540039
+    },
+    "(7, 100, 200)": {
+        "values_idx": 9,
+        "solver_result": 1490.0,
+        "solver_time": 0.14013433456420898,
+        "net_result": 1487.1015464365482,
+        "net_time": 0.0009984970092773438
+    },
+    "(7, 100, 250)": {
+        "values_idx": 18,
+        "solver_result": 1783.0,
+        "solver_time": 1.1133191585540771,
+        "net_result": 1780.605077162385,
+        "net_time": 0.0
+    },
+    "(7, 100, 300)": {
+        "values_idx": 53,
+        "solver_result": 2279.0,
+        "solver_time": 2.2196083068847656,
+        "net_result": 2274.2335322499275,
+        "net_time": 0.0
+    },
+    "(7, 100, 350)": {
+        "values_idx": 32,
+        "solver_result": 2534.0,
+        "solver_time": 1.6558668613433838,
+        "net_result": 2529.1025935709476,
+        "net_time": 0.0
+    },
+    "(7, 30, 100)": {
+        "values_idx": 12,
+        "solver_result": 166.0,
+        "solver_time": 0.4368317127227783,
+        "net_result": 165.69500470161438,
+        "net_time": 0.0
+    },
+    "(7, 30, 150)": {
+        "values_idx": 46,
+        "solver_result": 326.0,
+        "solver_time": 2.3193752765655518,
+        "net_result": 325.00934694707394,
+        "net_time": 0.000997304916381836
+    },
+    "(7, 30, 200)": {
+        "values_idx": 58,
+        "solver_result": 435.0,
+        "solver_time": 2.059638261795044,
+        "net_result": 434.3177169561386,
+        "net_time": 0.0
+    },
+    "(7, 30, 250)": {
+        "values_idx": 22,
+        "solver_result": 446.0,
+        "solver_time": 1.2023465633392334,
+        "net_result": 444.39501920342445,
+        "net_time": 0.0
+    },
+    "(7, 30, 300)": {
+        "values_idx": 57,
+        "solver_result": 730.0,
+        "solver_time": 3.7739336490631104,
+        "net_result": 729.3337471187115,
+        "net_time": 0.0009982585906982422
+    },
+    "(7, 30, 350)": {
+        "values_idx": 36,
+        "solver_result": 657.0,
+        "solver_time": 5.404635429382324,
+        "net_result": 655.6660138964653,
+        "net_time": 0.0
+    },
+    "(7, 30, 500)": {
+        "values_idx": 63,
+        "solver_result": 1230.0,
+        "solver_time": 1352.9505727291107,
+        "net_result": 1227.9272142648697,
+        "net_time": 0.000997781753540039
+    },
+    "(7, 40, 100)": {
+        "values_idx": 38,
+        "solver_result": 302.0,
+        "solver_time": 0.9444742202758789,
+        "net_result": 301.8098518252373,
+        "net_time": 0.0
+    },
+    "(7, 40, 150)": {
+        "values_idx": 89,
+        "solver_result": 417.0,
+        "solver_time": 1.7985591888427734,
+        "net_result": 415.94905376434326,
+        "net_time": 0.0
+    },
+    "(7, 40, 200)": {
+        "values_idx": 0,
+        "solver_result": 552.0,
+        "solver_time": 2.262985944747925,
+        "net_result": 551.7865705490112,
+        "net_time": 0.0009970664978027344
+    },
+    "(7, 40, 250)": {
+        "values_idx": 17,
+        "solver_result": 858.0,
+        "solver_time": 2.446382522583008,
+        "net_result": 856.5445243120193,
+        "net_time": 0.000997304916381836
+    },
+    "(7, 40, 300)": {
+        "values_idx": 90,
+        "solver_result": 977.0,
+        "solver_time": 18.38472890853882,
+        "net_result": 975.7116785049438,
+        "net_time": 0.0009706020355224609
+    },
+    "(7, 40, 350)": {
+        "values_idx": 64,
+        "solver_result": 886.0,
+        "solver_time": 1.3523445129394531,
+        "net_result": 884.3468202352524,
+        "net_time": 0.0
+    },
+    "(7, 50, 100)": {
+        "values_idx": 80,
+        "solver_result": 353.0,
+        "solver_time": 0.34906601905822754,
+        "net_result": 352.89974561333656,
+        "net_time": 0.0
+    },
+    "(7, 50, 150)": {
+        "values_idx": 27,
+        "solver_result": 452.0,
+        "solver_time": 0.22839045524597168,
+        "net_result": 451.6391604691744,
+        "net_time": 0.0009975433349609375
+    },
+    "(7, 50, 200)": {
+        "values_idx": 29,
+        "solver_result": 773.0,
+        "solver_time": 27.8494975566864,
+        "net_result": 771.1654334068298,
+        "net_time": 0.0
+    },
+    "(7, 50, 250)": {
+        "values_idx": 73,
+        "solver_result": 968.0,
+        "solver_time": 4.96484637260437,
+        "net_result": 965.808730840683,
+        "net_time": 0.0009984970092773438
+    },
+    "(7, 50, 300)": {
+        "values_idx": 94,
+        "solver_result": 1131.0,
+        "solver_time": 8.26988673210144,
+        "net_result": 1127.564148902893,
+        "net_time": 0.0
+    },
+    "(7, 50, 350)": {
+        "values_idx": 3,
+        "solver_result": 1242.0,
+        "solver_time": 1.5528819561004639,
+        "net_result": 1238.5976323187351,
+        "net_time": 0.0009627342224121094
+    },
+    "(7, 60, 100)": {
+        "values_idx": 36,
+        "solver_result": 450.0,
+        "solver_time": 0.5555129051208496,
+        "net_result": 449.32490062713623,
+        "net_time": 0.0
+    },
+    "(7, 60, 150)": {
+        "values_idx": 23,
+        "solver_result": 600.0,
+        "solver_time": 0.46774983406066895,
+        "net_result": 599.0977439880371,
+        "net_time": 0.0009980201721191406
+    },
+    "(7, 60, 200)": {
+        "values_idx": 3,
+        "solver_result": 905.0,
+        "solver_time": 1.205773115158081,
+        "net_result": 903.74831199646,
+        "net_time": 0.0009984970092773438
+    },
+    "(7, 60, 250)": {
+        "values_idx": 48,
+        "solver_result": 1057.0,
+        "solver_time": 3.4140241146087646,
+        "net_result": 1054.6932876110077,
+        "net_time": 0.000997781753540039
+    },
+    "(7, 60, 300)": {
+        "values_idx": 70,
+        "solver_result": 1206.0,
+        "solver_time": 3.75749135017395,
+        "net_result": 1203.0842376351357,
+        "net_time": 0.0
+    },
+    "(7, 60, 350)": {
+        "values_idx": 70,
+        "solver_result": 1534.0,
+        "solver_time": 1.7912120819091797,
+        "net_result": 1530.8379492759705,
+        "net_time": 0.0
+    },
+    "(7, 70, 100)": {
+        "values_idx": 11,
+        "solver_result": 464.0,
+        "solver_time": 0.369037389755249,
+        "net_result": 462.9945755004883,
+        "net_time": 0.0009746551513671875
+    },
+    "(7, 70, 150)": {
+        "values_idx": 10,
+        "solver_result": 731.0,
+        "solver_time": 0.3670172691345215,
+        "net_result": 729.9390143454075,
+        "net_time": 0.0009984970092773438
+    },
+    "(7, 70, 200)": {
+        "values_idx": 72,
+        "solver_result": 993.0,
+        "solver_time": 0.526592493057251,
+        "net_result": 990.8650944828987,
+        "net_time": 0.0
+    },
+    "(7, 70, 250)": {
+        "values_idx": 55,
+        "solver_result": 1066.0,
+        "solver_time": 0.950458288192749,
+        "net_result": 1064.4038747549057,
+        "net_time": 0.0010001659393310547
+    },
+    "(7, 70, 300)": {
+        "values_idx": 1,
+        "solver_result": 1496.0,
+        "solver_time": 2.1422715187072754,
+        "net_result": 1493.0233303904533,
+        "net_time": 0.0
+    },
+    "(7, 70, 350)": {
+        "values_idx": 93,
+        "solver_result": 1801.0,
+        "solver_time": 7.971226930618286,
+        "net_result": 1797.229371279478,
+        "net_time": 0.0
+    },
+    "(7, 80, 100)": {
+        "values_idx": 88,
+        "solver_result": 544.0,
+        "solver_time": 0.07280564308166504,
+        "net_result": 543.1886226832867,
+        "net_time": 0.0
+    },
+    "(7, 80, 150)": {
+        "values_idx": 41,
+        "solver_result": 888.0,
+        "solver_time": 0.4388554096221924,
+        "net_result": 886.039771437645,
+        "net_time": 0.0
+    },
+    "(7, 80, 200)": {
+        "values_idx": 26,
+        "solver_result": 1077.0,
+        "solver_time": 2.6822350025177,
+        "net_result": 1074.5585660934448,
+        "net_time": 0.0
+    },
+    "(7, 80, 250)": {
+        "values_idx": 54,
+        "solver_result": 1415.0,
+        "solver_time": 2.353215217590332,
+        "net_result": 1411.3681684434414,
+        "net_time": 0.0
+    },
+    "(7, 80, 300)": {
+        "values_idx": 94,
+        "solver_result": 1889.0,
+        "solver_time": 0.457775354385376,
+        "net_result": 1884.8382127583027,
+        "net_time": 0.0
+    },
+    "(7, 80, 350)": {
+        "values_idx": 14,
+        "solver_result": 1958.0,
+        "solver_time": 2.35545015335083,
+        "net_result": 1952.7137696743011,
+        "net_time": 0.0009961128234863281
+    },
+    "(7, 90, 100)": {
+        "values_idx": 93,
+        "solver_result": 711.0,
+        "solver_time": 0.6651928424835205,
+        "net_result": 709.8920568823814,
+        "net_time": 0.0
+    },
+    "(7, 90, 150)": {
+        "values_idx": 37,
+        "solver_result": 1011.0,
+        "solver_time": 0.7011253833770752,
+        "net_result": 1009.3823515474796,
+        "net_time": 0.0009975433349609375
+    },
+    "(7, 90, 200)": {
+        "values_idx": 38,
+        "solver_result": 1318.0,
+        "solver_time": 0.937493085861206,
+        "net_result": 1315.4485703855753,
+        "net_time": 0.0009984970092773438
+    },
+    "(7, 90, 250)": {
+        "values_idx": 96,
+        "solver_result": 1576.0,
+        "solver_time": 1.8131515979766846,
+        "net_result": 1572.7362144589424,
+        "net_time": 0.0
+    },
+    "(7, 90, 300)": {
+        "values_idx": 75,
+        "solver_result": 1986.0,
+        "solver_time": 0.7676725387573242,
+        "net_result": 1981.88624471426,
+        "net_time": 0.0
+    },
+    "(7, 90, 350)": {
+        "values_idx": 65,
+        "solver_result": 2246.0,
+        "solver_time": 0.6781871318817139,
+        "net_result": 2241.204959154129,
+        "net_time": 0.000997304916381836
+    },
+    "(8, 100, 100)": {
+        "values_idx": 37,
+        "solver_result": 561.0,
+        "solver_time": 0.03789877891540527,
+        "net_result": 560.0195761322975,
+        "net_time": 0.0009970664978027344
+    },
+    "(8, 100, 150)": {
+        "values_idx": 81,
+        "solver_result": 943.0,
+        "solver_time": 1.2443678379058838,
+        "net_result": 940.7220494002104,
+        "net_time": 0.0009970664978027344
+    },
+    "(8, 100, 200)": {
+        "values_idx": 98,
+        "solver_result": 1332.0,
+        "solver_time": 0.8666815757751465,
+        "net_result": 1329.025394320488,
+        "net_time": 0.0
+    },
+    "(8, 100, 250)": {
+        "values_idx": 21,
+        "solver_result": 1583.0,
+        "solver_time": 0.8804059028625488,
+        "net_result": 1578.500481903553,
+        "net_time": 0.0009992122650146484
+    },
+    "(8, 100, 300)": {
+        "values_idx": 99,
+        "solver_result": 1832.0,
+        "solver_time": 5.195642471313477,
+        "net_result": 1826.9619283676147,
+        "net_time": 0.0
+    },
+    "(8, 100, 350)": {
+        "values_idx": 53,
+        "solver_result": 2227.0,
+        "solver_time": 13.764259099960327,
+        "net_result": 2221.870789885521,
+        "net_time": 0.0009992122650146484
+    },
+    "(8, 30, 100)": {
+        "values_idx": 84,
+        "solver_result": 229.0,
+        "solver_time": 0.8413596153259277,
+        "net_result": 228.34705996513367,
+        "net_time": 0.0
+    },
+    "(8, 30, 150)": {
+        "values_idx": 83,
+        "solver_result": 236.0,
+        "solver_time": 2.906859874725342,
+        "net_result": 236.08925622701645,
+        "net_time": 0.0
+    },
+    "(8, 30, 200)": {
+        "values_idx": 81,
+        "solver_result": 386.0,
+        "solver_time": 5.834400177001953,
+        "net_result": 384.8196669816971,
+        "net_time": 0.000995635986328125
+    },
+    "(8, 30, 250)": {
+        "values_idx": 60,
+        "solver_result": 439.0,
+        "solver_time": 121.39910101890564,
+        "net_result": 438.03280091285706,
+        "net_time": 0.000997781753540039
+    },
+    "(8, 30, 300)": {
+        "values_idx": 55,
+        "solver_result": 528.0,
+        "solver_time": 9.37592887878418,
+        "net_result": 527.5925017297268,
+        "net_time": 0.0009982585906982422
+    },
+    "(8, 40, 100)": {
+        "values_idx": 3,
+        "solver_result": 231.0,
+        "solver_time": 0.8726673126220703,
+        "net_result": 230.68506261706352,
+        "net_time": 0.0
+    },
+    "(8, 40, 150)": {
+        "values_idx": 7,
+        "solver_result": 354.0,
+        "solver_time": 2.8164682388305664,
+        "net_result": 353.6427998393774,
+        "net_time": 0.000997781753540039
+    },
+    "(8, 40, 200)": {
+        "values_idx": 95,
+        "solver_result": 555.0,
+        "solver_time": 3.0727829933166504,
+        "net_result": 553.5915176868439,
+        "net_time": 0.0009968280792236328
+    },
+    "(8, 40, 250)": {
+        "values_idx": 24,
+        "solver_result": 595.0,
+        "solver_time": 3.671184539794922,
+        "net_result": 593.5599050223827,
+        "net_time": 0.0009984970092773438
+    },
+    "(8, 40, 300)": {
+        "values_idx": 88,
+        "solver_result": 653.0,
+        "solver_time": 0.7489967346191406,
+        "net_result": 652.0965719223022,
+        "net_time": 0.0009968280792236328
+    },
+    "(8, 40, 350)": {
+        "values_idx": 34,
+        "solver_result": 902.0,
+        "solver_time": 3.4318227767944336,
+        "net_result": 898.6755192279816,
+        "net_time": 0.000997304916381836
+    },
+    "(8, 50, 100)": {
+        "values_idx": 35,
+        "solver_result": 352.0,
+        "solver_time": 1.5917439460754395,
+        "net_result": 351.3358345627785,
+        "net_time": 0.0009975433349609375
+    },
+    "(8, 50, 150)": {
+        "values_idx": 6,
+        "solver_result": 477.99999999999994,
+        "solver_time": 7.502936601638794,
+        "net_result": 476.27612233161926,
+        "net_time": 0.0
+    },
+    "(8, 50, 200)": {
+        "values_idx": 74,
+        "solver_result": 600.0,
+        "solver_time": 16.363245487213135,
+        "net_result": 598.2949946522713,
+        "net_time": 0.0
+    },
+    "(8, 50, 250)": {
+        "values_idx": 30,
+        "solver_result": 782.0,
+        "solver_time": 28.843064546585083,
+        "net_result": 779.8134790658951,
+        "net_time": 0.0
+    },
+    "(8, 50, 300)": {
+        "values_idx": 68,
+        "solver_result": 983.0,
+        "solver_time": 2.4620718955993652,
+        "net_result": 980.1028364896774,
+        "net_time": 0.0009982585906982422
+    },
+    "(8, 50, 350)": {
+        "values_idx": 78,
+        "solver_result": 1130.0,
+        "solver_time": 2.579272985458374,
+        "net_result": 1125.9312515705824,
+        "net_time": 0.0
+    },
+    "(8, 60, 100)": {
+        "values_idx": 95,
+        "solver_result": 378.0,
+        "solver_time": 0.5789675712585449,
+        "net_result": 377.8142449557781,
+        "net_time": 0.0
+    },
+    "(8, 60, 150)": {
+        "values_idx": 55,
+        "solver_result": 546.0,
+        "solver_time": 1.0631568431854248,
+        "net_result": 545.4389509856701,
+        "net_time": 0.0
+    },
+    "(8, 60, 200)": {
+        "values_idx": 95,
+        "solver_result": 833.0,
+        "solver_time": 4.0060601234436035,
+        "net_result": 830.8840315639973,
+        "net_time": 0.0
+    },
+    "(8, 60, 250)": {
+        "values_idx": 59,
+        "solver_result": 963.0,
+        "solver_time": 4.405703067779541,
+        "net_result": 961.312766969204,
+        "net_time": 0.0009975433349609375
+    },
+    "(8, 60, 300)": {
+        "values_idx": 43,
+        "solver_result": 1089.0,
+        "solver_time": 8.277261018753052,
+        "net_result": 1085.771652162075,
+        "net_time": 0.0
+    },
+    "(8, 60, 350)": {
+        "values_idx": 64,
+        "solver_result": 1252.0,
+        "solver_time": 10.064169645309448,
+        "net_result": 1249.3226878792048,
+        "net_time": 0.0
+    },
+    "(8, 70, 100)": {
+        "values_idx": 44,
+        "solver_result": 465.0,
+        "solver_time": 1.0774543285369873,
+        "net_result": 464.3351953625679,
+        "net_time": 0.0
+    },
+    "(8, 70, 150)": {
+        "values_idx": 22,
+        "solver_result": 701.0,
+        "solver_time": 0.6319262981414795,
+        "net_result": 698.9100813418627,
+        "net_time": 0.0
+    },
+    "(8, 70, 200)": {
+        "values_idx": 63,
+        "solver_result": 779.0,
+        "solver_time": 2.0014889240264893,
+        "net_result": 777.3316485285759,
+        "net_time": 0.0
+    },
+    "(8, 70, 250)": {
+        "values_idx": 73,
+        "solver_result": 1083.0,
+        "solver_time": 4.0242393016815186,
+        "net_result": 1080.3453705310822,
+        "net_time": 0.0
+    },
+    "(8, 70, 300)": {
+        "values_idx": 61,
+        "solver_result": 1436.0,
+        "solver_time": 8.454225063323975,
+        "net_result": 1432.5040511786938,
+        "net_time": 0.0
+    },
+    "(8, 70, 350)": {
+        "values_idx": 75,
+        "solver_result": 1545.0,
+        "solver_time": 4.1887993812561035,
+        "net_result": 1540.9280261397362,
+        "net_time": 0.0009975433349609375
+    },
+    "(8, 80, 100)": {
+        "values_idx": 81,
+        "solver_result": 496.0,
+        "solver_time": 0.6971373558044434,
+        "net_result": 494.9060238003731,
+        "net_time": 0.0009980201721191406
+    },
+    "(8, 80, 150)": {
+        "values_idx": 40,
+        "solver_result": 795.0,
+        "solver_time": 2.4410488605499268,
+        "net_result": 792.3469087332487,
+        "net_time": 0.0019948482513427734
+    },
+    "(8, 80, 200)": {
+        "values_idx": 84,
+        "solver_result": 989.0,
+        "solver_time": 3.858281373977661,
+        "net_result": 986.0524324178696,
+        "net_time": 0.0
+    },
+    "(8, 80, 250)": {
+        "values_idx": 33,
+        "solver_result": 1183.0,
+        "solver_time": 0.6552495956420898,
+        "net_result": 1179.768213391304,
+        "net_time": 0.000997781753540039
+    },
+    "(8, 80, 300)": {
+        "values_idx": 98,
+        "solver_result": 1508.0,
+        "solver_time": 2.2080957889556885,
+        "net_result": 1503.6151735782623,
+        "net_time": 0.0
+    },
+    "(8, 80, 350)": {
+        "values_idx": 60,
+        "solver_result": 1823.0,
+        "solver_time": 17.735724210739136,
+        "net_result": 1818.1454578489065,
+        "net_time": 0.0
+    },
+    "(8, 90, 100)": {
+        "values_idx": 33,
+        "solver_result": 561.0,
+        "solver_time": 1.4211170673370361,
+        "net_result": 559.9361631125212,
+        "net_time": 0.0
+    },
+    "(8, 90, 150)": {
+        "values_idx": 2,
+        "solver_result": 847.0,
+        "solver_time": 0.585458517074585,
+        "net_result": 844.9518597126007,
+        "net_time": 0.0
+    },
+    "(8, 90, 200)": {
+        "values_idx": 20,
+        "solver_result": 1216.0,
+        "solver_time": 1.4092326164245605,
+        "net_result": 1213.5637964308262,
+        "net_time": 0.0
+    },
+    "(8, 90, 250)": {
+        "values_idx": 38,
+        "solver_result": 1465.0,
+        "solver_time": 9.48041558265686,
+        "net_result": 1460.7135963439941,
+        "net_time": 0.000997781753540039
+    },
+    "(8, 90, 300)": {
+        "values_idx": 15,
+        "solver_result": 1745.0,
+        "solver_time": 2.694753885269165,
+        "net_result": 1740.488113090396,
+        "net_time": 0.0
+    },
+    "(8, 90, 350)": {
+        "values_idx": 18,
+        "solver_result": 2184.0,
+        "solver_time": 4.699605464935303,
+        "net_result": 2178.5760374069214,
+        "net_time": 0.0
+    }
+}

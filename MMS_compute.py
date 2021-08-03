@@ -97,8 +97,6 @@ def xpress_solver(values, k, timeout=None):
         mms_prob.addConstraint(min_value <= xp.Sum([vars[item][part] * values[item] for item in items]))
     mms_prob.setObjective(min_value, sense=xp.maximize)
     mms_prob.solve()
-    # print("problem status:            ", mms_prob.getSolution ())
-    # print("problem status, explained: ", mms_prob.getProbStatusString())
     end = time.time()
     return mms_prob.getSolution(min_value), end-start
 
@@ -207,58 +205,19 @@ def generate_examples(n, max_val, m, generation_method, examples_count, solver=o
 
 
 
-
-# k = 8
-# m = 80
-# mv = 300
-# values = [random.randrange(0, mv+1) for _ in range(m)]
+# ns = [8]
 #
+# ms = [80]
+# max_vals = [350]
 #
-#
-# values.sort()
-# start = time.time()
-# v = ortools_solver(values, k)
-# end = time.time()
-#
-# print("ortools:", v, end-start)
-#
-# values.sort(reverse=True)
-# start = time.time()
-# v = ortools_solver(values, k)
-# end = time.time()
-# print("ortools reverse:", v, end-start)
-#
-#
-# values.sort()
-# start = time.time()
-# v = xpress_solver(values, k)
-# end = time.time()
-#
-# print("xpress:", v, end-start)
-#
-# values.sort(reverse=True)
-# start = time.time()
-# v = xpress_solver(values, k)
-# end = time.time()
-# print("xpress reverse:", v, end-start)
-
-
-
-
-
-ns = [8]
-
-ms = [80]
-max_vals = [300]
-
-generation_methods=['uniform']
-for n in ns:
-    for max_val in max_vals:
-        for m in ms:
-            for generation_method in generation_methods:
-                b=random.randint(0,1)
-                entries = generate_examples(n=n, max_val=max_val, m=m, generation_method=generation_method,
-                                            examples_count=100,
-                                            solver=xpress_solver, sort_reverse=bool(b))
-                write_examples(n=n, max_val=max_val, m=m, generation_method=generation_method, entries=entries)
-                print("done "+ str(n) + ", "+str(m)+", "+str(max_val))
+# generation_methods=['uniform']
+# for n in ns:
+#     for max_val in max_vals:
+#         for m in ms:
+#             for generation_method in generation_methods:
+#                 b=random.randint(0,1)
+#                 entries = generate_examples(n=n, max_val=max_val, m=m, generation_method=generation_method,
+#                                             examples_count=100,
+#                                             solver=xpress_solver, sort_reverse=bool(b))
+#                 write_examples(n=n, max_val=max_val, m=m, generation_method=generation_method, entries=entries)
+#                 print("done "+ str(n) + ", "+str(m)+", "+str(max_val))
